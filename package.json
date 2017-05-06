@@ -46,7 +46,7 @@
     "lib": "./lib"
   },
   "scripts": {
-    "start": "node server.js",
+    "start": "authbind node server.js",
     "test": "mocha -r should spec/*"
   }
 }
