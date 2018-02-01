@@ -45,12 +45,7 @@
     "lib": "./lib"
   },
   "scripts": {
-<<<<<<< HEAD
-    "start": "authbind node server.js",
-    "test": "mocha -r should spec/*"
-=======
     "start": "node server.js",
     "test": "mocha --recursive"
->>>>>>> upstream/master
   }
 }
